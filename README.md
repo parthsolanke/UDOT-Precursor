@@ -1,11 +1,10 @@
 # UDOT-Precursor
-## Unfairness detection of Terms of Services
 
 # Terms & Conditions Analysis Tool
 
 ## Overview
 
-This tool is designed to analyze and provide insights into the terms and conditions of online services. It uses natural language processing (NLP) to classify sentences within the terms and conditions and provides valuable data insights.
+This tool is designed to analyze and provide insights into the terms and conditions of online services. It uses natural language processing (NLP) to classify sentences within the terms and conditions and provides valuable data insights by detecting potentially unfair clauses.
 
 ## How to Use
 
