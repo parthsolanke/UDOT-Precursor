@@ -1,3 +1,4 @@
+numpy==1.22.1
 requests==2.26.0
 streamlit==1.18.0
 plotly==5.3.1
