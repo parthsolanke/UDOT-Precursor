@@ -5,6 +5,9 @@ from nltk.tokenize import sent_tokenize
 from label_config import multicalss_labels, binary_labels
 from api_config import MULTICLASS_API_URL, BINARY_API_URL, API_TOKEN
 
+import nltk
+nltk.download('punkt')
+
 
 def multiclass_threshold_classification(sentences, threshold=0.5):
     
