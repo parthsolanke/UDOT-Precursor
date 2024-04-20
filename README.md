@@ -1,10 +1,12 @@
 # UDOT-Precursor
 
-# Terms & Conditions Analysis Tool
+# [Terms & Conditions Analysis Tool](https://termsnconditionschecker.streamlit.app)
 
 ## Overview
 
 This tool is designed to analyze and provide insights into the terms and conditions of online services. It uses natural language processing (NLP) to classify sentences within the terms and conditions and provides valuable data insights by detecting potentially unfair clauses.
+
+## Demo Link: https://termsnconditionschecker.streamlit.app
 
 ## How to Use
 
