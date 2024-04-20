@@ -35,7 +35,7 @@ if submit_button and terms_text:
                                                        if sentence['label'] == label]))
 
     # bar chart
-    bar_fig = px.bar(df, x='Label', y='Count', text='Count', text_auto='.2s',
+    bar_fig = px.bar(df, x='Label', y='Count', text='Count',
                      color_discrete_sequence=px.colors.sequential.RdBu)
     bar_fig.update_layout(width=500, height=400)
     bar_fig.update_traces(textfont_size=12, textangle=0,
